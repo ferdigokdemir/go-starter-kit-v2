@@ -11,9 +11,10 @@ Go starter kit serisinin ikinci versiyonu olan bu repo ile hızlıca Go dili ile
 
 ## Kurulum
 
-Proje ana dizininde .env adında bir dosya oluşturun. .env.example dosyası içindeki ayaları kopyalayop .env dosyasının içine yapıştırın.
+Proje ana dizininde .env adında bir dosya oluşturun. .env.example dosyası içindeki ayarları kopyalayıp .env dosyasının içine yapıştırın.
 
 "PORT" -> Uygulamayı hangi porttan çalıştırmak istiyorsanız burdan değiştirebilirsiniz.
+
 "MONGO_URI" -> MongoDB bağlantısı için gerekli ayarı set edebilirsiniz. [MongoDB Cloud](https://www.mongodb.com/cloud/atlas) üzerinden ücretsiz bir MongoDB veritabanı oluşturabilirsiniz.
 
 ## Çalıştır
